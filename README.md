@@ -1,5 +1,5 @@
 # rag_pjt
-rag를 활용한 pjt
+AI 소믈리에 : langchain rag를 활용한 멀티모달 pjt
 <img src="prepare/images/ai_sommelier.png" alt="소개 이미지">
 
 # 설치 라이브러리
